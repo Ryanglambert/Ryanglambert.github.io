@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Luther: Box Office Performance Analysis
+title: Project Luther Box Office Performance Analysis
 ---
 
 # Overview: 
