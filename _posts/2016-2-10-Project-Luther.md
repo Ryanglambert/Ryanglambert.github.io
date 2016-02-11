@@ -7,7 +7,7 @@ title: Project Luther: Box Office Performance Analysis
 
 This initial 
 
-![Correlation](correlation_genre.png)
+![Correlation](images/correlation_genre.png)
 
 
 
